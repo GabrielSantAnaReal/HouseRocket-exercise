@@ -1,8 +1,14 @@
 # HouseRocket-exercise
 
 🇧🇷🇵🇹 Usando o caso fictício da HouseRocket para exercitar minhas habilidades em Ciência &amp; Análise de Dados.
+Esse repositório usa como base dados disponíveis publicamente em:
+-> https://youtu.be/VlYDWOfiFuc
+-> https://www.kaggle.com/code/lucascapovilla/house-rocket
 
 🇬🇧🇺🇸 Using the HouseRocket fictitious case to exercise my Data Science &amp; Analysis skills.
+This repository uses data available publicly in:
+-> https://youtu.be/VlYDWOfiFuc
+-> https://www.kaggle.com/code/lucascapovilla/house-rocket
 
 
 ========================================================================================
